@@ -1,0 +1,54 @@
+{
+    "name": "bigdatagrid",
+    "settings": {
+        "cmd": {
+            "license": "commercial",
+            "cmdVersion": "6.2.1.29",
+            "frameworkVersion": "6.2.1.167"
+        },
+        "urlPrefixTemplate": "http://localhost:{port}/{path}",
+        "urlPrefix": "http://localhost:51728/",
+        "canvasControls": {
+            "viewportSize": {
+                "name": "Desktop (Auto Expand)",
+                "builtIn": true,
+                "height": null,
+                "width": null
+            },
+            "viewportOrientation": "portrait"
+        },
+        "exportPath": "",
+        "spacesToIndent": 4,
+        "sdkPath": "",
+        "lineEnding": "CRLF",
+        "genTimestamps": false,
+        "cacheBust": false,
+        "buildShouldOverwriteIndex": true,
+        "generateArchitectVersion": true
+    },
+    "xdsVersion": "4.1.2",
+    "xdsBuild": 156,
+    "schemaVersion": 1,
+    "upgradeVersion": 310000000001,
+    "framework": "modern62",
+    "viewOrderMap": {
+        "view": [
+            "711a3ce9-abaa-4cbb-9646-76fed4390841",
+            "b6a26256-cfc0-494f-b75f-555a77063f77"
+        ],
+        "store": [
+            "acdbf007-8865-483b-8bbf-c6289f78a674"
+        ],
+        "controller": [],
+        "model": [
+            "bafdaacf-4e4d-40d2-a487-3ed58e1ec143"
+        ],
+        "resource": [
+            "ccbe6335-3214-4c58-b3ce-8b1d2841ac0d",
+            "807d4e3b-6eb3-40a7-9e5d-3b75e07b76e1"
+        ],
+        "app": [
+            "application"
+        ]
+    }
+}
